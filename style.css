@@ -164,7 +164,7 @@ nav {
   text-align: left;
   top: 100%;
   left: 0;
-  background: var(--background);
+  background: #1C191D;
   width: 100%;
   transform: scale(1, 0);
   transform-origin: top;
